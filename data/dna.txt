@@ -1,0 +1,73 @@
+{
+    "html": [
+        "README.md",
+        "index.html",
+        "pageeditor.html",
+        "scroll.html"
+    ],
+    "javascript": [
+        "mapfactory.js"
+    ],
+    "iconsymbols": [
+        "createicon.svg",
+        "deletebutton.svg",
+        "editor.svg",
+        "littlerotatelefticon.svg",
+        "littlerotaterighticon.svg",
+        "littlezoominicon.svg",
+        "littlezoomouticon.svg",
+        "movedownbutton.svg",
+        "moveupbutton.svg",
+        "navigator.svg",
+        "newbutton.svg",
+        "nextbutton.svg",
+        "prevbutton.svg",
+        "rotatelefticon.svg",
+        "rotaterighticon.svg",
+        "rotateslider.svg",
+        "savebutton.svg",
+        "scaleslider.svg",
+        "scrollicon.svg",
+        "tree.svg",
+        "zoominicon.svg",
+        "zoomouticon.svg"
+    ],
+    "symbols": [
+        "blackgoldentriangle.svg",
+        "bluegoldenspiral.svg",
+        "circle.svg",
+        "goldenrectangle.svg",
+        "goldenspiralblack.svg",
+        "longarrow.svg",
+        "longthinarrow.svg",
+        "pentagram.svg",
+        "rainbowpentagram1.svg",
+        "rainbowspiral.svg",
+        "rainbowstar.svg",
+        "shortarrow.svg",
+        "x.svg",
+        "yellowgoldenspiral.svg",
+        "yellowgoldentriangle.svg"
+    ],
+    "data": [
+        "currentMap.txt",
+        "dna.txt"
+    ],
+    "php": [
+        "deletebranch.txt",
+        "deletefile.txt",
+        "dir.txt",
+        "dnagenerator.txt",
+        "editor.txt",
+        "fileloader.txt",
+        "filesaver.txt",
+        "mkdir.txt",
+        "mkpage.txt",
+        "mkpaper.txt",
+        "mksymbol.txt",
+        "pagelist.txt",
+        "replicator.txt",
+        "text2php.txt",
+        "upload.txt"
+    ]
+}

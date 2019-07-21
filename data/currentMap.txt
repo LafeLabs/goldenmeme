@@ -1,0 +1,47 @@
+[
+    {
+        "x": 0.29594272076372313,
+        "y": 0.4618138424821002,
+        "w": 0.6073985680190931,
+        "angle": 0,
+        "text": "base image here",
+        "href": "",
+        "src": ""
+    },
+    {
+        "x": 0.04295942720763723,
+        "y": 0.24105011933174225,
+        "w": 0.905727923627685,
+        "angle": 0,
+        "text": "Golden Meme",
+        "href": "",
+        "src": "http://localhost:8000/symbols/goldenspiralblack.svg"
+    },
+    {
+        "x": 0.8949880668257757,
+        "y": 0.002386634844868735,
+        "w": 0.3615751789976134,
+        "angle": 0,
+        "text": "about",
+        "href": "scroll.html",
+        "src": ""
+    },
+    {
+        "x": 0.002386634844868735,
+        "y": 0.002386634844868735,
+        "w": 0.09427207637231504,
+        "angle": 0,
+        "text": "symbol editor",
+        "href": "symbol/symbol.html",
+        "src": "symbol/iconsymbols/symbolicon.svg"
+    },
+    {
+        "x": 0.18973747016706444,
+        "y": -0.0011933174224343676,
+        "w": 0.6073985680190931,
+        "angle": 0,
+        "text": "Golden Meme",
+        "href": "",
+        "src": ""
+    }
+]
