@@ -414,7 +414,7 @@ function GVM(x0,y0,unit,theta0,canvas2d,width,height,bytecode) {
             this.scaleFactor = 3;
         }
         if(address == 0316) {
-            this.scaleFactor = 5;
+            this.scaleFactor = Math.sqrt(5);
         }
         if(address == 0320) {
             this.ctx.strokeStyle = this.style.color0;
