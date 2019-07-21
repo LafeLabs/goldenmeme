@@ -68,6 +68,7 @@
         "mksymbol.txt",
         "pagelist.txt",
         "replicator.txt",
+        "replicator_goldenmeme.txt",
         "text2php.txt",
         "upload.txt"
     ]
