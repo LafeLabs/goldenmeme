@@ -23,17 +23,17 @@ copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/data/currentM
 copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/php/replicator_artbox.txt","php/replicator_goldenmeme.txt");
 
 
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/artbox.svg","symbols/algebraphiderive.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/template.svg","symbols/blackgoldentriangle.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/layout.svg","symbols/bluegoldenspiral.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/artbox.svg","symbols/goldenrectangle.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/template.svg","symbols/goldenspiralblack.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/layout.svg","symbols/pentagram.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/artbox.svg","symbols/rainbowpentagram1.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/template.svg","symbols/rainbowspiral.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/layout.svg","symbols/rainbowstar.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/template.svg","symbols/yellowgoldenspiral.svg");
-copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/layout.svg","symbols/yellowgoldentriangle.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/algebraphiderive.svg","symbols/algebraphiderive.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/blackgoldentriangle.svg","symbols/blackgoldentriangle.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/bluegoldenspiral.svg","symbols/bluegoldenspiral.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/goldenrectangle.svg","symbols/goldenrectangle.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/goldenspiralblack.svg","symbols/goldenspiralblack.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/pentagram.svg","symbols/pentagram.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/rainbowpentagram1.svg","symbols/rainbowpentagram1.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/rainbowspiral.svg","symbols/rainbowspiral.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/rainbowstar.svg","symbols/rainbowstar.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/yellowgoldenspiral.svg","symbols/yellowgoldenspiral.svg");
+copy("https://raw.githubusercontent.com/LafeLabs/goldenmeme/master/symbols/yellowgoldentriangle.svg","symbols/yellowgoldentriangle.svg");
 
 
 copy("https://raw.githubusercontent.com/LafeLabs/thing/master/php/replicator.txt","goldenratio/replicator.php");
