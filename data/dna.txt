@@ -33,6 +33,7 @@
         "zoomouticon.svg"
     ],
     "symbols": [
+        "algebraphiderive.svg",
         "blackgoldentriangle.svg",
         "bluegoldenspiral.svg",
         "circle.svg",

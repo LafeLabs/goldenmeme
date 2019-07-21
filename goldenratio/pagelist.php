@@ -22,7 +22,7 @@ $files = scandir(getcwd());
 foreach($files as $value){
     if($value{0} != "." && is_dir($value) && $value != "php" && $value != "jscode" && $value != "data" && $value != "html" && $value != "symbols" && $value != "symbol" && $value != "fonts" && $value != "icons" && $value != "iconsymbols" && $value != "uploadimages"){
                 
-        echo "\n<li><a href = \"".$value."/\">".$value."/</a></li>\n";
+        echo "\n<li><a href = \"".$value."/\">".$value."/</a><img class = \"button\" style = \"width:30px\" src = \"iconsymbols/deletebutton.svg\"></li>\n";
         
     }
 }
@@ -48,6 +48,20 @@ inputs[1].onchange = function() {
 }
 
     
+deletebuttons = document.getElementById("mainlist").getElementsByTagName("IMG");
+
+for(var index = 0;index < deletebuttons.length;index++){
+    deletebuttons[index].onclick = function() {
+        thisdir = this.parentNode.getElementsByTagName("A")[0].innerHTML;
+        var httpc = new XMLHttpRequest();
+        var url = "deletebranch.php";         
+        httpc.open("POST", url, true);
+        httpc.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=utf-8");
+        httpc.send("filename=" + thisdir);//send text to deletefile.php
+        this.parentNode.parentNode.removeChild(this.parentNode);
+
+    }
+}
 
 </script>
 <style>
